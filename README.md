@@ -16,5 +16,7 @@ Install Keras, Numpy & Jupyter by
 pip install keras
 pip install numpy
 pip install jupyter
+pip install cython h5py
 ```
+
 
